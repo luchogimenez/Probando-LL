@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
+<<<<<<< HEAD
          Bienvenidos muchachos
          hola
          hola
@@ -15,6 +16,10 @@ function App() {
          hola
          hola
          
+=======
+         Bienvenido luis y leo 
+         nueva pagina
+>>>>>>> ab30c5becc5db49ba9333c5dfc7249a26e937017
         </p>
         <a
           className="App-link"
